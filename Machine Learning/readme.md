@@ -1,3 +1,2 @@
-machine learning <br>
-Chapter 1. mmm <br>
-Chapter 2. dsd
+# 파이토치 교과서
+파이토치 교과서 내용을 정리 및 실습한 내용입니다.
